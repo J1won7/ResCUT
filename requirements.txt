@@ -1,0 +1,13 @@
+# Tested runtime: Python 3.10, PyTorch 2.10.0, torchvision 0.25.0.
+# For CUDA-enabled PyTorch, select the wheel matching the target CUDA runtime
+# if the default PyPI wheel is not appropriate for the host.
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.1.1
+nibabel==5.4.2
+packaging==25.0
+dominate==2.9.1
+visdom>=0.1.8.8
+GPUtil==1.4.0
