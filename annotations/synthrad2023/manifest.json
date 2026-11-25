@@ -1,0 +1,304 @@
+{
+  "cases": [
+    {
+      "case": "2PA020",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA020.nii.gz",
+      "artifact_mask": "artifact/2PA020.nii.gz",
+      "reference_mask": "gluteal/2PA020.nii.gz",
+      "body_mask": "body/2PA020.nii.gz",
+      "rois": "rois/2PA020.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA021",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA021.nii.gz",
+      "artifact_mask": "artifact/2PA021.nii.gz",
+      "reference_mask": "gluteal/2PA021.nii.gz",
+      "body_mask": "body/2PA021.nii.gz",
+      "rois": "rois/2PA021.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA025",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA025.nii.gz",
+      "artifact_mask": "artifact/2PA025.nii.gz",
+      "reference_mask": "gluteal/2PA025.nii.gz",
+      "body_mask": "body/2PA025.nii.gz",
+      "rois": "rois/2PA025.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA033",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA033.nii.gz",
+      "artifact_mask": "artifact/2PA033.nii.gz",
+      "reference_mask": "gluteal/2PA033.nii.gz",
+      "body_mask": "body/2PA033.nii.gz",
+      "rois": "rois/2PA033.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA034",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA034.nii.gz",
+      "artifact_mask": "artifact/2PA034.nii.gz",
+      "reference_mask": "gluteal/2PA034.nii.gz",
+      "body_mask": "body/2PA034.nii.gz",
+      "rois": "rois/2PA034.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA042",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA042.nii.gz",
+      "artifact_mask": "artifact/2PA042.nii.gz",
+      "reference_mask": "gluteal/2PA042.nii.gz",
+      "body_mask": "body/2PA042.nii.gz",
+      "rois": "rois/2PA042.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA057",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA057.nii.gz",
+      "artifact_mask": "artifact/2PA057.nii.gz",
+      "reference_mask": "gluteal/2PA057.nii.gz",
+      "body_mask": "body/2PA057.nii.gz",
+      "rois": "rois/2PA057.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA065",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA065.nii.gz",
+      "artifact_mask": "artifact/2PA065.nii.gz",
+      "reference_mask": "gluteal/2PA065.nii.gz",
+      "body_mask": "body/2PA065.nii.gz",
+      "rois": "rois/2PA065.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA072",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA072.nii.gz",
+      "artifact_mask": "artifact/2PA072.nii.gz",
+      "reference_mask": "gluteal/2PA072.nii.gz",
+      "body_mask": "body/2PA072.nii.gz",
+      "rois": "rois/2PA072.csv",
+      "images": {}
+    },
+    {
+      "case": "2PA080",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PA080.nii.gz",
+      "artifact_mask": "artifact/2PA080.nii.gz",
+      "reference_mask": "gluteal/2PA080.nii.gz",
+      "body_mask": "body/2PA080.nii.gz",
+      "rois": "rois/2PA080.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB015",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB015.nii.gz",
+      "artifact_mask": "artifact/2PB015.nii.gz",
+      "reference_mask": "gluteal/2PB015.nii.gz",
+      "body_mask": "body/2PB015.nii.gz",
+      "rois": "rois/2PB015.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB023",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB023.nii.gz",
+      "artifact_mask": "artifact/2PB023.nii.gz",
+      "reference_mask": "gluteal/2PB023.nii.gz",
+      "body_mask": "body/2PB023.nii.gz",
+      "rois": "rois/2PB023.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB028",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB028.nii.gz",
+      "artifact_mask": "artifact/2PB028.nii.gz",
+      "reference_mask": "gluteal/2PB028.nii.gz",
+      "body_mask": "body/2PB028.nii.gz",
+      "rois": "rois/2PB028.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB041",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB041.nii.gz",
+      "artifact_mask": "artifact/2PB041.nii.gz",
+      "reference_mask": "gluteal/2PB041.nii.gz",
+      "body_mask": "body/2PB041.nii.gz",
+      "rois": "rois/2PB041.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB045",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB045.nii.gz",
+      "artifact_mask": "artifact/2PB045.nii.gz",
+      "reference_mask": "gluteal/2PB045.nii.gz",
+      "body_mask": "body/2PB045.nii.gz",
+      "rois": "rois/2PB045.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB059",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB059.nii.gz",
+      "artifact_mask": "artifact/2PB059.nii.gz",
+      "reference_mask": "gluteal/2PB059.nii.gz",
+      "body_mask": "body/2PB059.nii.gz",
+      "rois": "rois/2PB059.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB069",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB069.nii.gz",
+      "artifact_mask": "artifact/2PB069.nii.gz",
+      "reference_mask": "gluteal/2PB069.nii.gz",
+      "body_mask": "body/2PB069.nii.gz",
+      "rois": "rois/2PB069.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB085",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB085.nii.gz",
+      "artifact_mask": "artifact/2PB085.nii.gz",
+      "reference_mask": "gluteal/2PB085.nii.gz",
+      "body_mask": "body/2PB085.nii.gz",
+      "rois": "rois/2PB085.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB089",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB089.nii.gz",
+      "artifact_mask": "artifact/2PB089.nii.gz",
+      "reference_mask": "gluteal/2PB089.nii.gz",
+      "body_mask": "body/2PB089.nii.gz",
+      "rois": "rois/2PB089.csv",
+      "images": {}
+    },
+    {
+      "case": "2PB099",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PB099.nii.gz",
+      "artifact_mask": "artifact/2PB099.nii.gz",
+      "reference_mask": "gluteal/2PB099.nii.gz",
+      "body_mask": "body/2PB099.nii.gz",
+      "rois": "rois/2PB099.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC018",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC018.nii.gz",
+      "artifact_mask": "artifact/2PC018.nii.gz",
+      "reference_mask": "gluteal/2PC018.nii.gz",
+      "body_mask": "body/2PC018.nii.gz",
+      "rois": "rois/2PC018.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC030",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC030.nii.gz",
+      "artifact_mask": "artifact/2PC030.nii.gz",
+      "reference_mask": "gluteal/2PC030.nii.gz",
+      "body_mask": "body/2PC030.nii.gz",
+      "rois": "rois/2PC030.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC054",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC054.nii.gz",
+      "artifact_mask": "artifact/2PC054.nii.gz",
+      "reference_mask": "gluteal/2PC054.nii.gz",
+      "body_mask": "body/2PC054.nii.gz",
+      "rois": "rois/2PC054.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC062",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC062.nii.gz",
+      "artifact_mask": "artifact/2PC062.nii.gz",
+      "reference_mask": "gluteal/2PC062.nii.gz",
+      "body_mask": "body/2PC062.nii.gz",
+      "rois": "rois/2PC062.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC068",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC068.nii.gz",
+      "artifact_mask": "artifact/2PC068.nii.gz",
+      "reference_mask": "gluteal/2PC068.nii.gz",
+      "body_mask": "body/2PC068.nii.gz",
+      "rois": "rois/2PC068.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC071",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC071.nii.gz",
+      "artifact_mask": "artifact/2PC071.nii.gz",
+      "reference_mask": "gluteal/2PC071.nii.gz",
+      "body_mask": "body/2PC071.nii.gz",
+      "rois": "rois/2PC071.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC074",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC074.nii.gz",
+      "artifact_mask": "artifact/2PC074.nii.gz",
+      "reference_mask": "gluteal/2PC074.nii.gz",
+      "body_mask": "body/2PC074.nii.gz",
+      "rois": "rois/2PC074.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC079",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC079.nii.gz",
+      "artifact_mask": "artifact/2PC079.nii.gz",
+      "reference_mask": "gluteal/2PC079.nii.gz",
+      "body_mask": "body/2PC079.nii.gz",
+      "rois": "rois/2PC079.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC081",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC081.nii.gz",
+      "artifact_mask": "artifact/2PC081.nii.gz",
+      "reference_mask": "gluteal/2PC081.nii.gz",
+      "body_mask": "body/2PC081.nii.gz",
+      "rois": "rois/2PC081.csv",
+      "images": {}
+    },
+    {
+      "case": "2PC088",
+      "dataset": "SynthRAD2023",
+      "source": "../../images/2PC088.nii.gz",
+      "artifact_mask": "artifact/2PC088.nii.gz",
+      "reference_mask": "gluteal/2PC088.nii.gz",
+      "body_mask": "body/2PC088.nii.gz",
+      "rois": "rois/2PC088.csv",
+      "images": {}
+    }
+  ]
+}

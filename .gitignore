@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+checkpoints/
+cache/
+images/
+predictions/
+results/
+*.pth
+*.pt
+*.zip
+*.log

@@ -1,0 +1,1692 @@
+{
+  "cases": [
+    {
+      "case": "2PA020",
+      "shape": [
+        256,
+        256,
+        104
+      ],
+      "affine": [
+        [
+          -1.6745097637176514,
+          0.0,
+          0.0,
+          206.5
+        ],
+        [
+          0.0,
+          -1.6745097637176514,
+          0.0,
+          146.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -93.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6745097637176514,
+        1.6745097637176514,
+        2.5
+      ],
+      "native_cbct_sha256": "40a9cc94a8fda2509173c66592e5921c7945e4dab90d0e67818ef22bba1939c1",
+      "prepared_source_sha256": "7427c5d53753c31316a4d666895d03d515085d805e6af89e03248bba5959b77c",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "7eb34e3a8995650e71a09bd409a4a32527830e6844f21797d0b6f064569cd8aa",
+        "gluteal": "9cb5f6340022f8c75e535016588c2d78a985c01bd28f90c64a24296c1b2f08be",
+        "body": "c5603a92f1da118e033a9240c3c299f9feab35977aab2baf758e68acd7ed55a2",
+        "rois": "f7a73670c2255cde2cf0dbd99c9965f260c06d324d2835239e86f115d10f997a"
+      },
+      "artifact_voxels": 78540,
+      "artifact_status": "annotated",
+      "artifact_rois": 17,
+      "reference_rois": 29,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA021",
+      "shape": [
+        256,
+        256,
+        104
+      ],
+      "affine": [
+        [
+          -1.6431372165679932,
+          0.0,
+          0.0,
+          202.99998474121094
+        ],
+        [
+          0.0,
+          -1.6431372165679932,
+          0.0,
+          130.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -177.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6431372165679932,
+        1.6431372165679932,
+        2.5
+      ],
+      "native_cbct_sha256": "dbf07fb3a92efc2e4c65db3a6ead648a2aba2b26f46b4c994965752860578c6f",
+      "prepared_source_sha256": "c501c2df2f0b7f374cb0d46f966ec17e9629aa0a39c62e53a0d684736a4e1cdf",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "0888a260d1b9f41549e72979cbf520c6f92f7cda5aa2c2b373c2c9c52b0d28d6",
+        "gluteal": "9462c18fa370c736ca05a6cf39a8793d59b459443079bd519ad93eeef54bbced",
+        "body": "3bee101b555282857d7c4e75db93d9d103803d9d0fd374d07af4d5e451e50607",
+        "rois": "37329234dc7842c13b1b9c8ad55afd2516601fbb45448bf6835b30bb26f0cb4b"
+      },
+      "artifact_voxels": 37763,
+      "artifact_status": "annotated",
+      "artifact_rois": 19,
+      "reference_rois": 40,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA025",
+      "shape": [
+        256,
+        256,
+        104
+      ],
+      "affine": [
+        [
+          -1.6784313917160034,
+          0.0,
+          0.0,
+          211.5
+        ],
+        [
+          0.0,
+          -1.6784313917160034,
+          0.0,
+          170.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -103.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6784313917160034,
+        1.6784313917160034,
+        2.5
+      ],
+      "native_cbct_sha256": "0c00c0b166bdf1400d12f106688657d8eaa25fcc7253bb77f517b0c7240307f8",
+      "prepared_source_sha256": "d577e7218aeeba0dd1b99564af36a0a6ae06fc208dd4ae2bc08008e3fa56bba7",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "7e804d119bbc2df524a64927c8f869c4efe64d9758ef38abc7a849d9d9b65986",
+        "gluteal": "9f0f5733cd718316080a75500664ada8a35d4caa9274cfcab6f88088459d7506",
+        "body": "ca2d6ff941d2057829d010676f4ea5a87bb370eda70ca5bbe48048bdb6487aa1",
+        "rois": "616dc508ff56ee143132c1329a2f21e1b6f5e9db86e74ace82f3817b1af99903"
+      },
+      "artifact_voxels": 335207,
+      "artifact_status": "annotated",
+      "artifact_rois": 33,
+      "reference_rois": 78,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA033",
+      "shape": [
+        256,
+        256,
+        103
+      ],
+      "affine": [
+        [
+          -1.6627451181411743,
+          0.0,
+          0.0,
+          218.0
+        ],
+        [
+          0.0,
+          -1.6627451181411743,
+          0.0,
+          123.10000610351562
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -135.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6627451181411743,
+        1.6627451181411743,
+        2.5
+      ],
+      "native_cbct_sha256": "aa5203c9ac3b5148a0aee6843af6b59e2d0d829323b729f4e54b426fcfeaf4c0",
+      "prepared_source_sha256": "10f09f64927028f6ff79945616cc74623b1303dcc11398346821caf609e1f0d9",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "de1d0fb3729582a92f327ebd4c4f9096df2c0290d772e2e305108cc3cf4e9080",
+        "gluteal": "1326a3888ca4511299c1a21567cfe100b35c430ffa912ae639cf771fd10dfea0",
+        "body": "9a8683b2c5116fffcfdf765a40f0861f245093b528da1d6f86ad94d70e30a461",
+        "rois": "1b6c83752d0cb2c7e1cc250a1ad39c0b526f4b4ac1317608a6083a2e68ebdd61"
+      },
+      "artifact_voxels": 202271,
+      "artifact_status": "annotated",
+      "artifact_rois": 33,
+      "reference_rois": 68,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA034",
+      "shape": [
+        256,
+        256,
+        105
+      ],
+      "affine": [
+        [
+          -1.6666666269302368,
+          0.0,
+          0.0,
+          218.5
+        ],
+        [
+          0.0,
+          -1.6666666269302368,
+          0.0,
+          153.5
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -159.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6666666269302368,
+        1.6666666269302368,
+        2.5
+      ],
+      "native_cbct_sha256": "f51afabe5d81a47068df1072e121199dc6eec6331703d432c25cf331f90af5ca",
+      "prepared_source_sha256": "873bc4678960f14ca57d7ff2a6a94e2b104fc6bd7f5c55b410942729c7b5ba14",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "93d8377bfbc516195cdd9d72aa7f195404586ac7dcda681d4f151f15ec281dfa",
+        "gluteal": "2fa4e183fc6c1f53ccf79e6bc9505b2fb6c380a7fc19dbf4a2acc7e38d593603",
+        "body": "a843732d17ee8822ee85893e295d97bb9e80ca44c36b6193e982a3f1418cc6c6",
+        "rois": "2b8f5ddbad29f35766252cf8a2c9e8050daae20214d1cf5f4d1ac715cbe3a71d"
+      },
+      "artifact_voxels": 31570,
+      "artifact_status": "annotated",
+      "artifact_rois": 11,
+      "reference_rois": 73,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA042",
+      "shape": [
+        256,
+        256,
+        105
+      ],
+      "affine": [
+        [
+          -1.682352900505066,
+          0.0,
+          0.0,
+          211.47482299804688
+        ],
+        [
+          0.0,
+          -1.682352900505066,
+          0.0,
+          214.064208984375
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -110.19140625
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.682352900505066,
+        1.682352900505066,
+        2.5
+      ],
+      "native_cbct_sha256": "d84d2a9af9f5e812f35f4e9910dd7d9f3771e50c5fbd6b921143793b969ac8c6",
+      "prepared_source_sha256": "123eb6fe8e552712c27a772771e4be2dd44357f37df0bc736ab09b4e63aa113e",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "d783c8d23d7a9184bf9adb733e26ce0bfc5163a8a9115dbeec22bbc40c11b3db",
+        "gluteal": "81d8eb8a8b83550be2b80c01aed0bc3a0d9e9dcd902839e9fe9ed25462de7b10",
+        "body": "58863a6981c59a68aaab8e8bd16e89c09526aa73f883abc1aeb7cde2cb5c3fbc",
+        "rois": "ec4ea0d83cacac12e7d418edb7b0aefea5694be23ab70e571a1798ca71ac8b17"
+      },
+      "artifact_voxels": 251063,
+      "artifact_status": "annotated",
+      "artifact_rois": 52,
+      "reference_rois": 58,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA057",
+      "shape": [
+        256,
+        256,
+        91
+      ],
+      "affine": [
+        [
+          -1.1333333253860474,
+          0.0,
+          0.0,
+          103.32998657226562
+        ],
+        [
+          0.0,
+          -1.1333333253860474,
+          0.0,
+          58.899993896484375
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -300.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.1333333253860474,
+        1.1333333253860474,
+        2.5
+      ],
+      "native_cbct_sha256": "800f6dc7ddd30c0d664ab1b0f452aa29f9ce9192b79a2d3340b4f3acfa530304",
+      "prepared_source_sha256": "b06638257b5f078f46ea962d1d95814bb583fe98342463091608aa422c58a546",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "e45a846bdd67c5a719e2bd5321179a4d70f44d0bfde9e8dd5f6f9e9dbde348c5",
+        "gluteal": "2e940ab30f1a9a3ae24c087d304d7a5ce013071c299427dfb232e58b92150e96",
+        "body": "813b8636b6f9114b930db4cc0cc28bad80547bff1cc73c6b52196b172507560f",
+        "rois": "5e02cb9279c69522219c2bf4872a24901bb33787046a20f45329cc1bf7b964a5"
+      },
+      "artifact_voxels": 379514,
+      "artifact_status": "annotated",
+      "artifact_rois": 74,
+      "reference_rois": 47,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA065",
+      "shape": [
+        256,
+        256,
+        105
+      ],
+      "affine": [
+        [
+          -1.6901960372924805,
+          0.0,
+          0.0,
+          216.0
+        ],
+        [
+          0.0,
+          -1.6901960372924805,
+          0.0,
+          175.29998779296875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -74.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6901960372924805,
+        1.6901960372924805,
+        2.5
+      ],
+      "native_cbct_sha256": "f2c5c4c24505f4e055e2a42c1099faf50a46a062ee1384ada760a38294bbd97b",
+      "prepared_source_sha256": "00dc152ff534095f285970383147f3c1be184ed835a8a4fae68cbdd75cbe84bd",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "a8c9db38be2c341d15eeea84a8ac8ae6d31064f064026182b5429ffd7fdf98a1",
+        "gluteal": "dfda3c8c50e4063ef122a932e66d0a7737a0cd2ace0b757fff7a991e212fc872",
+        "body": "dd4bba778eaf6fa97da223bee25f101cd3c8dc677ce3a6dccc0f1dc07f678187",
+        "rois": "7b25fd13b44244032ca3f5b1360be867e13ba9e089840a208bfe0c6dba0661ef"
+      },
+      "artifact_voxels": 169502,
+      "artifact_status": "annotated",
+      "artifact_rois": 31,
+      "reference_rois": 71,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA072",
+      "shape": [
+        256,
+        256,
+        81
+      ],
+      "affine": [
+        [
+          -1.4078431129455566,
+          0.0,
+          0.0,
+          215.385986328125
+        ],
+        [
+          0.0,
+          -1.4078431129455566,
+          0.0,
+          111.89999389648438
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -154.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.4078431129455566,
+        1.4078431129455566,
+        2.5
+      ],
+      "native_cbct_sha256": "3e43633464bf7b7f0250da6d2a31988a42a4082c8937ced572733db22bd179b3",
+      "prepared_source_sha256": "57ebc5e71c0e7bceff79d801b73e72e8c5bde45124ba23bc79c89277598d848d",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "fca34fcb946f6594729a4304ee1284fd860d6586b4044e5d4472532b4ebef938",
+        "gluteal": "c60d44f1b94d0f8fe89873a68882ff1f6db64136561b9ced983d7f56da1275d1",
+        "body": "2fac1870eb69e4e9a2a8a14de77ab4db0901716b87af411d160fc2ba722194de",
+        "rois": "ecfa67a2ebe01676f10d865e499faa3653402a2609245f0afc7e92cad3e80cb5"
+      },
+      "artifact_voxels": 110584,
+      "artifact_status": "annotated",
+      "artifact_rois": 22,
+      "reference_rois": 73,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PA080",
+      "shape": [
+        256,
+        256,
+        105
+      ],
+      "affine": [
+        [
+          -1.6901960372924805,
+          0.0,
+          0.0,
+          229.22601318359375
+        ],
+        [
+          0.0,
+          -1.6901960372924805,
+          0.0,
+          146.39999389648438
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -166.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6901960372924805,
+        1.6901960372924805,
+        2.5
+      ],
+      "native_cbct_sha256": "061ff0468c02e624348d5ec1dbda5bd36153f01989b772d7b13ecc41530f6af8",
+      "prepared_source_sha256": "2aab01014ed7de5fa44d22ae08e7505b0204b8c8e950ae5f5317a8c418859aaa",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": -1000.0
+      },
+      "hashes": {
+        "artifact": "d92f363ce9e2becac44364a4d5cb2bf01c8221cec508362c5388216f81c08a16",
+        "gluteal": "2163df69608a37fb1e97242b98493ffb6c266a94b78876f26cdb336122a4932f",
+        "body": "8b85271a594eb34e89b384dc0c4f36189b56d16cd9e71ec698d64115a480a768",
+        "rois": "4f20fe110d3bb75d9e5ddc05a31b2a9a4a1b58d0d440d186d1e111353a5c7908"
+      },
+      "artifact_voxels": 17460,
+      "artifact_status": "annotated",
+      "artifact_rois": 8,
+      "reference_rois": 75,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB015",
+      "shape": [
+        256,
+        256,
+        85
+      ],
+      "affine": [
+        [
+          -1.6352940797805786,
+          0.0,
+          0.0,
+          201.51171875
+        ],
+        [
+          0.0,
+          -1.6352940797805786,
+          0.0,
+          385.01171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -105.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6352940797805786,
+        1.6352940797805786,
+        2.5
+      ],
+      "native_cbct_sha256": "0afe9202bc393a40d4cee69afabbfec433d8b106ef13f74461e4266ea0a327b2",
+      "prepared_source_sha256": "d062ff76a3f2cdc73aa87c9cc1b19d1c644b1a6737b3472d93d647d6a70ab4cf",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "e7a7855d3577f25f6dc4a1287a0441580a0277516b3206e623bd439dcb8fddb7",
+        "gluteal": "910f06c4fb9ca677382946e34c6c615b7fc7e94e2faa67dcc62046182b362160",
+        "body": "b4f601e4cb0bfc8746ad5a11fa17b3cc9e3829a0391acbf5c748066500f2a4da",
+        "rois": "8d6619eb667596eb7c8407a5111b4d8035c7101b7e561497ab34e2665d7fcdb6"
+      },
+      "artifact_voxels": 126405,
+      "artifact_status": "annotated",
+      "artifact_rois": 32,
+      "reference_rois": 66,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB023",
+      "shape": [
+        256,
+        256,
+        88
+      ],
+      "affine": [
+        [
+          -1.6235294342041016,
+          0.0,
+          0.0,
+          196.51171875
+        ],
+        [
+          0.0,
+          -1.6235294342041016,
+          0.0,
+          381.51171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -119.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6235294342041016,
+        1.6235294342041016,
+        2.5
+      ],
+      "native_cbct_sha256": "06f014bbbe6d705a5ce5ff0241310ceeadf78e6fecb3052ec76dcae8ee66c630",
+      "prepared_source_sha256": "8a5c7a9789e5165fa2bcdd9d6821a4c8ef131356221b0f4daa35450b46ac5986",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "7e9de565ce1a290c8b689241012988deaaedf347b07127ee174d3ad58e180032",
+        "gluteal": "c03cea46049857d9e0d0147d8b7487af8b7fba7b4c9df3014b0dc2ac9355db54",
+        "body": "dd4c453ba18dbd42044fe9003c5f0e5fe504a4bf3b0b1c6ba7610204ed27a311",
+        "rois": "7b3e69f3a08b025ed2436317a4aefd8ec8cb2edba7a887667cc836fd782e376c"
+      },
+      "artifact_voxels": 30846,
+      "artifact_status": "annotated",
+      "artifact_rois": 20,
+      "reference_rois": 72,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB028",
+      "shape": [
+        256,
+        256,
+        87
+      ],
+      "affine": [
+        [
+          -1.615686297416687,
+          0.0,
+          0.0,
+          214.0
+        ],
+        [
+          0.0,
+          -1.615686297416687,
+          0.0,
+          219.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -110.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.615686297416687,
+        1.615686297416687,
+        2.5
+      ],
+      "native_cbct_sha256": "84cc3a088fabc1f2571ed2a8fde049aa71601fa832d69d0800ca094eec31856f",
+      "prepared_source_sha256": "3dec51ba75e1c169be3992ca23b969a55b38de7f75930e3d547b70f4f3880f4c",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "b3dd314c5d021f2846d0791e32dd8c8257b8d90b37584552546067f742242508",
+        "gluteal": "4a566529d93fafc1eee3c57dbb91ed99467f7b322219dd4f0c3b6f9fe6912c6f",
+        "body": "d439069e0d15f5b5dc1790b9d6795f8da5402ab5f218071718196f53d6aa8fd5",
+        "rois": "9577cf09adc3393fbdfda720cae0828f880badfbdf890059b470b0970ff226ad"
+      },
+      "artifact_voxels": 47748,
+      "artifact_status": "annotated",
+      "artifact_rois": 18,
+      "reference_rois": 71,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB041",
+      "shape": [
+        256,
+        256,
+        89
+      ],
+      "affine": [
+        [
+          -1.6235294342041016,
+          0.0,
+          0.0,
+          202.51171875
+        ],
+        [
+          0.0,
+          -1.6235294342041016,
+          0.0,
+          395.01171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -102.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6235294342041016,
+        1.6235294342041016,
+        2.5
+      ],
+      "native_cbct_sha256": "915dd34e51be6bf9d6eaa6143453cb2adc602690859ead62441624da81d001c3",
+      "prepared_source_sha256": "9df2fda6477ac928d8fcbbaa9db169debfe31c5a38f6fd81be483083805eb58a",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "3cd8395cbec5cd7293fd304c6a4162f93d40642d2746833dc984467c44eb2e9e",
+        "gluteal": "d7c928bf04ac6f484d4cb95ffae9d9c7932914fbbcde49d4906706e4e5206774",
+        "body": "2e6ea88f6ae09edcc1c431bcf06e931357832041ff82a354b38f1ce22a9b97b8",
+        "rois": "603a3d0d73830c1e805a4f2837f3d389ce87d440cd3df79c88520ef6c1e28884"
+      },
+      "artifact_voxels": 117717,
+      "artifact_status": "annotated",
+      "artifact_rois": 42,
+      "reference_rois": 71,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB045",
+      "shape": [
+        256,
+        256,
+        88
+      ],
+      "affine": [
+        [
+          -1.682352900505066,
+          0.0,
+          0.0,
+          218.0
+        ],
+        [
+          0.0,
+          -1.682352900505066,
+          0.0,
+          198.5
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -133.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.682352900505066,
+        1.682352900505066,
+        2.5
+      ],
+      "native_cbct_sha256": "1f2feebed0bd127dbbe2f7ed9f21b7eefd129d1d62f87abce6993bef55ad3667",
+      "prepared_source_sha256": "18e8c2adf369ef142d4b57a63d463a90e46a0d7c9c8be97874fbafeef5d8c23d",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "d6fd01b6581ef7f2988c79c918543a84d5f85723814fbe66eb659bf967017d05",
+        "gluteal": "476a3ab9480c9820c199bf3eddb99a68a51e285e6448dbe435576b0fa029b2f4",
+        "body": "cfeacd8b49ecc00c6c58d730921ad2cfe8b5f122b7ad7dd23c8f91e1de5db24f",
+        "rois": "6054cd58f6a6c3a4ab23ea87e38552eefb8d7156b685726d88ccee51002e28f3"
+      },
+      "artifact_voxels": 11782,
+      "artifact_status": "annotated",
+      "artifact_rois": 10,
+      "reference_rois": 62,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB059",
+      "shape": [
+        256,
+        256,
+        87
+      ],
+      "affine": [
+        [
+          -1.541176438331604,
+          0.0,
+          0.0,
+          197.51171875
+        ],
+        [
+          0.0,
+          -1.541176438331604,
+          0.0,
+          383.01171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -107.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.541176438331604,
+        1.541176438331604,
+        2.5
+      ],
+      "native_cbct_sha256": "376026e78a8151f14ad845ff735e5909718fe022c2d1dd40eaade29c8595269c",
+      "prepared_source_sha256": "2ac64a3a6db1c62248df137c99067cd3f444af3ca1f0546730fdd33df8904f47",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "ba4343307e9ff9b6d3fe6bdd151b7ce672546d23a889a2e5a947673597d1cd60",
+        "gluteal": "40dbeedc62fb46d57422e45dc9a107eda67ce698038bb2daa6b7155d853de707",
+        "body": "8c9fe24d6e8db1f291a32b166e0bd4bd1a9d58012b989ee2ba9479fbb81223d1",
+        "rois": "1134a70ee2195238699a8bf59bf990bff7fb6ebe25db6b27a4f7884efcd03795"
+      },
+      "artifact_voxels": 30558,
+      "artifact_status": "annotated",
+      "artifact_rois": 10,
+      "reference_rois": 68,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB069",
+      "shape": [
+        256,
+        256,
+        86
+      ],
+      "affine": [
+        [
+          -1.6078431606292725,
+          0.0,
+          0.0,
+          190.51171875
+        ],
+        [
+          0.0,
+          -1.6078431606292725,
+          0.0,
+          379.51171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -42.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6078431606292725,
+        1.6078431606292725,
+        2.5
+      ],
+      "native_cbct_sha256": "1666fc2855306f45477ae6d6453be398b47da701344e947291d10c02af09f373",
+      "prepared_source_sha256": "7f07a5a63a28320aa8b5bf9ed279c68b66b43b2cb33c9bea61fce2c7c5f49e29",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "d0c81457c3db19c572760ee10aac46eb9908b1105695d09caab671863a66a50f",
+        "gluteal": "640757df259a588a81fcca2eec79dd69186096be5ce4050e6b88abc7d1cc8983",
+        "body": "c77dfa0b61ad0919dd963747bc12469bf30ff311a974977a26e646150990c87e",
+        "rois": "38cac4a6de6c981efd8328a4cb6416f38e640dab701188c673866034293f4790"
+      },
+      "artifact_voxels": 459817,
+      "artifact_status": "annotated",
+      "artifact_rois": 59,
+      "reference_rois": 55,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB085",
+      "shape": [
+        256,
+        256,
+        86
+      ],
+      "affine": [
+        [
+          -1.6588234901428223,
+          0.0,
+          0.0,
+          210.51171875
+        ],
+        [
+          0.0,
+          -1.6588234901428223,
+          0.0,
+          405.01171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -114.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6588234901428223,
+        1.6588234901428223,
+        2.5
+      ],
+      "native_cbct_sha256": "440331192d534aa9452a1a1a532fa7c9b669f196ba6cc0eaa0876d7d59c848b7",
+      "prepared_source_sha256": "be2ad8dc082c50a63c275cb55f769187e4212c7c7957e046480068cbd6c31e6d",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "27313f393a345fb764af5e16755ebff9ad9baa67d991a04255247f03a1d86211",
+        "gluteal": "67df5c7276071198cffa27c4ebfde7944115f32eeec193d69773fe60729bbf9a",
+        "body": "a7332fe121e95b93a2b70b647dbd13ab7fc0a19b2457b7926f67a73ef4f2a2bd",
+        "rois": "314ebbf514e5e6a7c0071c67dad28cabe154c93ade4595370981efab04fab1e8"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 76,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB089",
+      "shape": [
+        256,
+        256,
+        85
+      ],
+      "affine": [
+        [
+          -1.6784313917160034,
+          0.0,
+          0.0,
+          216.51171875
+        ],
+        [
+          0.0,
+          -1.6784313917160034,
+          0.0,
+          435.51171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -80.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6784313917160034,
+        1.6784313917160034,
+        2.5
+      ],
+      "native_cbct_sha256": "52414271cfc6e7598065f441971e19ab5e03a1f89543342cf96cb15d0d348c80",
+      "prepared_source_sha256": "6217d64bc8062c6eb523b0c7d0b22368da202c59bb1aab9b8e3ce9bce4e7feb8",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "63b4d2924e025322a0d8579bdd45132d70aef3eeae6b3ffe14482cded6547873",
+        "gluteal": "085c610cb264e66e6f8ac33c3fa7a4e5f01c901ae06257f8ba76385e7396775b",
+        "body": "b2d8f9ba26bbac910cb19e3462896c4a32896fbf85d58d0a6175213aaeebe81b",
+        "rois": "9185ec918a5396920382add3eb4dc47ce8f9755533e4a18044cf8659ed8b9974"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 79,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PB099",
+      "shape": [
+        256,
+        256,
+        90
+      ],
+      "affine": [
+        [
+          -1.701960802078247,
+          0.0,
+          0.0,
+          221.51171875
+        ],
+        [
+          0.0,
+          -1.701960802078247,
+          0.0,
+          417.51171875
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          -47.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.701960802078247,
+        1.701960802078247,
+        2.5
+      ],
+      "native_cbct_sha256": "23006fef62a5410c6888a311e2ad91706cd7ebeb037ab5c4f97ba4d9eaebec20",
+      "prepared_source_sha256": "5b2fefd3f72ef063217374d519d174ce6fd41b13e0dbb509ec9d117d708bbaab",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 24.0
+      },
+      "hashes": {
+        "artifact": "8fa60b21441dad66cac2cda3ab1e6bb93057edb211a6ffa03bf75f8072d579cc",
+        "gluteal": "b6c7d0c8f30e6a7909180473aba4bb58da2bc892dae37bc80dda54b76c50ecdb",
+        "body": "ba227bc8ed8ed0ad5fe7cee79107770fe00a349d070ca6730a2a0c74abd396ef",
+        "rois": "1431dd3e596b01a3b07dafcd6ded56b934bd0b6e6b32488f71abdacfc96d82f4"
+      },
+      "artifact_voxels": 104791,
+      "artifact_status": "annotated",
+      "artifact_rois": 44,
+      "reference_rois": 52,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC018",
+      "shape": [
+        256,
+        256,
+        49
+      ],
+      "affine": [
+        [
+          -1.5960783958435059,
+          0.0,
+          0.0,
+          201.0
+        ],
+        [
+          0.0,
+          -1.5960783958435059,
+          0.0,
+          128.8000030517578
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          239.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.5960783958435059,
+        1.5960783958435059,
+        2.5
+      ],
+      "native_cbct_sha256": "6d564a7ad8e313e22f125cfe240c1a9ba955d05a9edc61b3983aff34c657a42c",
+      "prepared_source_sha256": "efe01552ba1dd6da7ec65c89ea311d1b8e21fb970a8bbd6e2c98bbdbcb4d9793",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "369dc184b12540ddd21992c8e0277c987421888c9ebfd00ca7402f72bb3ebe2c",
+        "gluteal": "d33de7b825916807b547d37d139ebebbd0d571c1ae05275ed8400cd279b1df7f",
+        "body": "779e8f89387c2eac168613987c5deaffad35d9fe2f5a9e2621e0e2e1d38ea472",
+        "rois": "4850887dc33b8e0c5b5d9c649e45b29aa508de3115d78f72974a4f1418b1f532"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 45,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC030",
+      "shape": [
+        256,
+        256,
+        47
+      ],
+      "affine": [
+        [
+          -1.6784313917160034,
+          0.0,
+          0.0,
+          222.0
+        ],
+        [
+          0.0,
+          -1.6784313917160034,
+          0.0,
+          126.39999389648438
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          192.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6784313917160034,
+        1.6784313917160034,
+        2.5
+      ],
+      "native_cbct_sha256": "0d9db9b7a9e6f7e435caefb10be18500237d36f7adaa40db9da1433fb06e5f1d",
+      "prepared_source_sha256": "719901e93fc725cefb8edcb944492a7f81f197dfae32f0d8dfab007c08e71da4",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "10a4e0c093dbdd06dc1cf6a0781c097bb43f56a0802df638d9375287ed75122b",
+        "gluteal": "0b8f0bd8520102431d3e3bd1917e30445e98bcdb7e89c20c3f9586f4c76b9452",
+        "body": "1fa189e0ad88a1d89e194e152ceb2a56fdf964e045417104748b16643f09033c",
+        "rois": "d0e5bd23b14ba523bea61e67888e547b3e6db254cadfefd545e8914a551675d6"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 47,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC054",
+      "shape": [
+        256,
+        256,
+        50
+      ],
+      "affine": [
+        [
+          -1.5882352590560913,
+          0.0,
+          0.0,
+          207.0
+        ],
+        [
+          0.0,
+          -1.5882352590560913,
+          0.0,
+          107.80000305175781
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          163.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.5882352590560913,
+        1.5882352590560913,
+        2.5
+      ],
+      "native_cbct_sha256": "c61ef76de223c7bbe1ef207826727dc5fa6178e588e40d402b09c4dc47f8eaa2",
+      "prepared_source_sha256": "bf6b1740863ec4dd28141104b76a474c01758792225c93c238643fe0a91b3f99",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "475b38d24cca30bc4c88ce81235fe4f75112004326b5b8a3c6ff21fd4e5339d0",
+        "gluteal": "111752ec65c2cf672964351e4b8ad54d37fb5a25df16b748707c233b06c80c1b",
+        "body": "500437d55e8fb097d9201477b59a6a89397c6c0eca910793573488e58e2ac06b",
+        "rois": "e3b91f05e9e4f9548da991178eb223b58253d2340d225b9ca7ff3485a92eda01"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 46,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC062",
+      "shape": [
+        256,
+        256,
+        48
+      ],
+      "affine": [
+        [
+          -1.6039215326309204,
+          0.0,
+          0.0,
+          209.0
+        ],
+        [
+          0.0,
+          -1.6039215326309204,
+          0.0,
+          105.80000305175781
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          135.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6039215326309204,
+        1.6039215326309204,
+        2.5
+      ],
+      "native_cbct_sha256": "96dc704daba83dafe8f0efe0af6a0ae041fdd6277e5ad910221dd8a86c378272",
+      "prepared_source_sha256": "374ddd40f289db204bc1419abeefc038f7e39d897cf2bb6d5b7e1b966e347aee",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "7d2300d0f9352da43c0f29a8bd850025bece23092fa0edb7b2b6327e0a52a257",
+        "gluteal": "0dbed5aa47af08f606353f4c6a1b371cf6acdca6712e3e4d50af6fe29e38f0e7",
+        "body": "e6d187389e9030ca79a4377c51e160c17c060f8bcd35280ffeb302b031e5a428",
+        "rois": "d314051103090cd32ae7200c07dcf619b7aa82f3ba13a92140a9328480486dd0"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 42,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC068",
+      "shape": [
+        256,
+        256,
+        48
+      ],
+      "affine": [
+        [
+          -1.6549019813537598,
+          0.0,
+          0.0,
+          221.0
+        ],
+        [
+          0.0,
+          -1.6549019813537598,
+          0.0,
+          123.19999694824219
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          132.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6549019813537598,
+        1.6549019813537598,
+        2.5
+      ],
+      "native_cbct_sha256": "2fb7e9898eb5532e5d560f4732fc3f7376c7ee7ddf61e81d061ddb776649ca85",
+      "prepared_source_sha256": "8034e862b9fec8b30b4e03237ce8d78da2b0da93f24de032fb791e1821655214",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "fdcbaf0ad0987427d0bb97cc0abb92c92ad23e8323b93da8c770106ccceea7ef",
+        "gluteal": "320aff46c802b455bb5ec1bc7052c8a1efc423aad477f4628e56b2df80e69f1e",
+        "body": "0f5144028ef6755e7d44911c773fd06e6b9032468d1949022e468a46f4ccb804",
+        "rois": "c91c66aa1887f31f69e756c68c3fb1b73c11d8edc35aa60e88ae1f0660b97cf4"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 44,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC071",
+      "shape": [
+        256,
+        256,
+        48
+      ],
+      "affine": [
+        [
+          -1.627450942993164,
+          0.0,
+          0.0,
+          225.0
+        ],
+        [
+          0.0,
+          -1.627450942993164,
+          0.0,
+          102.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          42.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.627450942993164,
+        1.627450942993164,
+        2.5
+      ],
+      "native_cbct_sha256": "d26ada2f70baf22dc9685f05ba857d3ed709023b466d3dd2d0c88bc52e961269",
+      "prepared_source_sha256": "2534eb650fa678c9ab432cfcb1971e619cac90947eff5bd14b28cdc2c5917eb8",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "41877ba9c9fa35c204009e861df023354a52befd6019c47d400fe1cc3e607d43",
+        "gluteal": "75db71f00d9f5f79cfa3a68c3c4565f3774bf0a892ec77e3d17c8386d47d0fe6",
+        "body": "68bec29dbfcc26d8e36663126be27ff55f7c5f9e4fd0255b3b9a50a07f9e6c2b",
+        "rois": "8fdf2a510c9a30742813fb049454ccc387620f6f895a6059bbb414099de0a4a3"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 35,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC074",
+      "shape": [
+        256,
+        256,
+        49
+      ],
+      "affine": [
+        [
+          -1.682352900505066,
+          0.0,
+          0.0,
+          225.0
+        ],
+        [
+          0.0,
+          -1.682352900505066,
+          0.0,
+          119.5
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          157.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.682352900505066,
+        1.682352900505066,
+        2.5
+      ],
+      "native_cbct_sha256": "95f2a0a9f5666208b1a165ab62a725403a06dac4197bce0921e5ed3ce9128216",
+      "prepared_source_sha256": "f80f7175fe2a778f930519a09de926a1f2ab8eafa8afedb99d144a958d96db1d",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "65b1595e429515760ea8ae6e1fcf64df5e76535930ccc3deb37b9b9d3922d36a",
+        "gluteal": "f9b5a3a8039bb76fa76f4d75f1ceaf525b070b30731fdbfa2553accbf983b68b",
+        "body": "26334093e6824300008b72235f72c2b39fb6e18309c4c3438dcfd8617f7dfeee",
+        "rois": "37744c8d58823b2ed68e1b4ce805a159c31d133464ad5f6d4cd59e7690577b23"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 47,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC079",
+      "shape": [
+        256,
+        256,
+        48
+      ],
+      "affine": [
+        [
+          -1.6784313917160034,
+          0.0,
+          0.0,
+          211.0
+        ],
+        [
+          0.0,
+          -1.6784313917160034,
+          0.0,
+          149.89999389648438
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          157.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6784313917160034,
+        1.6784313917160034,
+        2.5
+      ],
+      "native_cbct_sha256": "6ccf3c97edec11ab9a810cdb9c760254e19c0bc72818ec5f75b1cc6367af362e",
+      "prepared_source_sha256": "9216727b2e4563c6d5598e9d91f99815213fecfae77f624aa7c7c2a524f786a1",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "1933d1d406088af64173dc35181d403eed5a9ab76aace15b5a051acb0161b4df",
+        "gluteal": "8c2d8fbc1f80246dcf1e1c2183429eb700c287c13c438263ded3ba8730f11196",
+        "body": "35c58513491dcb5b8573a259d62ece00563c502e4e43f616e374bc0c527e7da2",
+        "rois": "ac2f4cdeacbc2e39c1a37a1f1ca84838ddc5fa46e81914cd4f62b1824f6134ca"
+      },
+      "artifact_voxels": 45454,
+      "artifact_status": "annotated",
+      "artifact_rois": 7,
+      "reference_rois": 44,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC081",
+      "shape": [
+        256,
+        256,
+        48
+      ],
+      "affine": [
+        [
+          -1.6627451181411743,
+          0.0,
+          0.0,
+          215.0
+        ],
+        [
+          0.0,
+          -1.6627451181411743,
+          0.0,
+          121.19999694824219
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          143.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.6627451181411743,
+        1.6627451181411743,
+        2.5
+      ],
+      "native_cbct_sha256": "3cecf9e23a165e30bf8b0c77cc99ccf7830f989a2d8e8ec3fbff7846f75aac5a",
+      "prepared_source_sha256": "091b92db05a1d084c87dac24a3a3208be5cc196f674cef39b0869d9c89d7d49e",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "b53cbc91b52f49c0af329a2e8f628a74536006eb50c58a44004d3c3a29d18fc2",
+        "gluteal": "c7f24786b3000a703146a11763ae4ea0f6f4d2018de71e464c494a2f21bdae85",
+        "body": "674bef087b88475b017cefe33e825c0b041a3f50f8b9fd6496a9fcba3173e8ff",
+        "rois": "dcc45372c9f294279a3f8acb817141d58f53cfa11a3d7f3c7cb3c44c2f022c1e"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 47,
+      "roi_coordinates_reproduced": true
+    },
+    {
+      "case": "2PC088",
+      "shape": [
+        256,
+        256,
+        47
+      ],
+      "affine": [
+        [
+          -1.5921568870544434,
+          0.0,
+          0.0,
+          200.0
+        ],
+        [
+          0.0,
+          -1.5921568870544434,
+          0.0,
+          127.89999389648438
+        ],
+        [
+          0.0,
+          0.0,
+          2.5,
+          130.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "spacing_xyz": [
+        1.5921568870544434,
+        1.5921568870544434,
+        2.5
+      ],
+      "native_cbct_sha256": "4381aa03d6b42cbdb06d32fc65f9d7f8b78d537497f7b4775b2dd371efc44acc",
+      "prepared_source_sha256": "47b299da04611a9b6214342ff5ee6686386ce73701cab61bda71131355510f15",
+      "intensity_adjustment": {
+        "scale": 1.0,
+        "offset": 0.0
+      },
+      "hashes": {
+        "artifact": "0c83bc8175c6ca883817608b30b0ab30fd71cd6ff737736d7dc226c97e631a5d",
+        "gluteal": "5fcc75ecb176ba01265b911ba91b6dbbbd38e5fc832d307c88f2ef869c31212f",
+        "body": "eaff679512af08bdbab0ddd112e89b6d4456bde7d732e21557b474ed73ee0c94",
+        "rois": "184d8d8b6a6f3f81e8dc6a8434da660c540769b1d05d78776426ee043ff8d245"
+      },
+      "artifact_voxels": 0,
+      "artifact_status": "no_annotated_artifact",
+      "artifact_rois": 0,
+      "reference_rois": 47,
+      "roi_coordinates_reproduced": true
+    }
+  ],
+  "coordinate_system": "NIfTI array X,Y,Z; zero-based indices; stop coordinates exclusive.",
+  "preparation": "LPS, 256x256 full-FOV square grid; clip before trilinear resampling; all native Z slices.",
+  "units": "Stored air-origin-aligned intensity units; not independently validated quantitative CBCT HU.",
+  "masks": "Full artifact annotations, merged gluteal reference masks, and fixed evaluation body masks.",
+  "official_release": "SynthRAD2023 Task 2 official pelvic validation subset",
+  "doi": "10.5281/zenodo.7868168",
+  "raw_images_included": false,
+  "checkpoints_included": false
+}
